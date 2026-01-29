@@ -1,0 +1,14 @@
+apiVersion: v2
+name: adp
+description: ADP Platform - TKE Deployment (Umbrella Chart)
+type: application
+version: 3.2.4
+appVersion: "3.2.4"
+
+home: ""
+icon: ""
+
+
+maintainers:
+  - name: ADP Team
+    email: adp@tencent.com
