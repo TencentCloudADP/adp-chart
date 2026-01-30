@@ -6,7 +6,7 @@ version: 3.2.4
 appVersion: "3.2.4"
 
 home: ""
-icon: ""
+icon: https://cloudcache.tencent-cloud.com/qcloud/ui/static/Industry_tke/bd9c98d6-46e2-48ec-a812-7adbbde304b6.jpg
 
 
 maintainers:
